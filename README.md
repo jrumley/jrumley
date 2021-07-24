@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jrumley. I'm interested in front- and back-end development with JavaScript. 
+- And, as a student of math and physics, I'm learning a bit of Fortran on the side to help me in the future.
+- I'm looking to collaborate on SaaS projects where my talent stack might be useful.
+- Reach me at rumleydev@gmail.com
